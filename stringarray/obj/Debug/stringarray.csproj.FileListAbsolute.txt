@@ -1,0 +1,7 @@
+d:\users\admin\source\repos\stringarray\stringarray\bin\Debug\stringarray.exe.config
+d:\users\admin\source\repos\stringarray\stringarray\bin\Debug\stringarray.exe
+d:\users\admin\source\repos\stringarray\stringarray\bin\Debug\stringarray.pdb
+d:\users\admin\source\repos\stringarray\stringarray\obj\Debug\stringarray.csprojResolveAssemblyReference.cache
+d:\users\admin\source\repos\stringarray\stringarray\obj\Debug\stringarray.csproj.CoreCompileInputs.cache
+d:\users\admin\source\repos\stringarray\stringarray\obj\Debug\stringarray.exe
+d:\users\admin\source\repos\stringarray\stringarray\obj\Debug\stringarray.pdb
